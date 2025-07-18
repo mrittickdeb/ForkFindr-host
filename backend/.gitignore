@@ -7,5 +7,4 @@ config/db.js
 # Ignore node_modules
 node_modules/
 
-# Optional logs/temp
-*.log
+
