@@ -1,0 +1,11 @@
+# Ignore environment secrets
+.env
+
+# Ignore database config
+config/db.js
+
+# Ignore node_modules
+node_modules/
+
+# Optional logs/temp
+*.log
